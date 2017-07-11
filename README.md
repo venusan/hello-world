@@ -1,2 +1,4 @@
 # hello-world
-Just have a try
+Hi humans!
+
+I'm new here,and I want make friends and learn something here.
